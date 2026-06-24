@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baraththebilli.github.io/krishnagiri-street-food/sitemap.xml
