@@ -12,11 +12,17 @@ body {
 }
 
 /* Header */
+/* Header */
 header {
     background-color: #b34200;
     color: #ffffff;
-    padding: 40px 20px;
+    padding: 20px;
     text-align: center;
+}
+
+header img {
+    width: 200px;
+    margin-bottom: 10px;
 }
 
 header h1 {
