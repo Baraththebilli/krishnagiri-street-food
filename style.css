@@ -53,6 +53,12 @@ h2 {
     margin-bottom: 10px;
 }
 
+h3 {
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
 ul {
     list-style: none;
     padding: 0;
