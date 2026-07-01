@@ -121,3 +121,25 @@ nav a:hover {
         font-size: 0.9rem;
     }
 }
+
+/* FAQ Section */
+section h3 {
+    color: #b34200;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+}
+
+section p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+/* FAQ Box Style */
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
