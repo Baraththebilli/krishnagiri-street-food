@@ -155,4 +155,19 @@
     <lastmod>2026-07-15</lastmod>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://baraththebilli.github.io/krishnagiri-street-food/about.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://baraththebilli.github.io/krishnagiri-street-food/contact.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://baraththebilli.github.io/krishnagiri-street-food/privacy-policy.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.3</priority>
+  </url>
 </urlset>
